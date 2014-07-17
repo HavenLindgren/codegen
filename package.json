@@ -24,6 +24,6 @@
 
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/jh12z/codegen.git"
+		"url": "git://github.com/codeattic/codegen.git"
 	}
 }
