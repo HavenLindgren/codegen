@@ -17,9 +17,9 @@
 	},
 
 	"dependencies": {
-		"js-yaml": "3.1.0",
+		"js-yaml": "3.2.7",
 		"sugar": "1.4.1",
-		"underscore": "1.6.0"
+		"underscore": "1.12.1"
 	},
 
 	"repository": {
